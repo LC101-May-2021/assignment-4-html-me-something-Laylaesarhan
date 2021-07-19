@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+html {
+    margin: 5px;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+img {
+    max-width: 300px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.left-padding {
+    padding-left: 15px;
+}
+
+.nomadic {
+    color: pink;
+}
